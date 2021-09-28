@@ -43,6 +43,7 @@ namespace EOG.Game.Simulation.Client
         {
             if (o is SelectionChangedEventArgs args)
             {
+                if (args.AddedItems.Count == 0) return;
                 var selectedPoint = (KeyValuePair<int, int>)args.AddedItems[0];
                 var selectedGame = compGames.Find(x => x.GameId == selectedPoint.Key);
                 Players.ToList().ForEach(x => x.IsWinner = false);
@@ -62,6 +63,8 @@ namespace EOG.Game.Simulation.Client
             compGames.Clear();
             ValueList.Clear();
             AverageValueList.Clear();
+            Players.Clear();
+
             SetMinAndMax();
             PopulatePlayers();
 
