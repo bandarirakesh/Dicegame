@@ -1,0 +1,5 @@
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\bin\Release\EOG.Game.Simulation.DataModel.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\bin\Release\EOG.Game.Simulation.DataModel.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Release\EOG.Game.Simulation.DataModel.csprojAssemblyReference.cache
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Release\EOG.Game.Simulation.DataModel.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Release\EOG.Game.Simulation.DataModel.pdb

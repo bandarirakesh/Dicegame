@@ -1,0 +1,9 @@
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\bin\Debug\EOG.Game.Simulation.UIResources.dll
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\bin\Debug\EOG.Game.Simulation.UIResources.pdb
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\obj\Debug\EOG.Game.Simulation.UIResources.csprojAssemblyReference.cache
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\obj\Debug\EOG.Game.Simulation.UIResources.dll
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\obj\Debug\EOG.Game.Simulation.UIResources.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\bin\Debug\EOG.Game.Simulation.UIResources.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\bin\Debug\EOG.Game.Simulation.UIResources.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\obj\Debug\EOG.Game.Simulation.UIResources.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\obj\Debug\EOG.Game.Simulation.UIResources.pdb

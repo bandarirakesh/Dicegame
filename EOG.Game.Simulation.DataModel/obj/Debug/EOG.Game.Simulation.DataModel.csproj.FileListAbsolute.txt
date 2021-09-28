@@ -1,0 +1,13 @@
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\bin\Debug\EOG.Game.Simulation.DataModel.dll
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\bin\Debug\EOG.Game.Simulation.DataModel.pdb
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Debug\EOG.Game.Simulation.DataModel.csprojAssemblyReference.cache
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Debug\EOG.Game.Simulation.DataModel.dll
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Debug\EOG.Game.Simulation.DataModel.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\bin\Debug\EOG.Game.Simulation.DataModel.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\bin\Debug\EOG.Game.Simulation.DataModel.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Debug\EOG.Game.Simulation.DataModel.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Debug\EOG.Game.Simulation.DataModel.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Debug\EOG.Game.Simulation.DataModel.csprojAssemblyReference.cache
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\bin\Debug\EOG.Game.Simulation.UIResources.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\bin\Debug\EOG.Game.Simulation.UIResources.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.DataModel\obj\Debug\EOG.Game.Simulation.DataModel.csproj.CopyComplete

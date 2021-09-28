@@ -1,0 +1,5 @@
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\bin\Release\EOG.Game.Simulation.UIResources.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\bin\Release\EOG.Game.Simulation.UIResources.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\obj\Release\EOG.Game.Simulation.UIResources.csprojAssemblyReference.cache
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\obj\Release\EOG.Game.Simulation.UIResources.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.UIResources\obj\Release\EOG.Game.Simulation.UIResources.pdb

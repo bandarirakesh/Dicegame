@@ -1,0 +1,54 @@
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.Client.exe.config
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.Client.exe
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.Client.pdb
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.csprojAssemblyReference.cache
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\MainWindow.g.cs
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\App.g.cs
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client_MarkupCompile.cache
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\MainWindow.baml
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.g.resources
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.Properties.Resources.resources
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.csproj.GenerateResource.cache
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.exe
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.pdb
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.csproj.CopyComplete
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.DataModel.dll
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.UIResources.dll
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.DataModel.pdb
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.UIResources.pdb
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Priya\c sharp excercise\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client_MarkupCompile.lref
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.Client.exe.config
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.Client.exe
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.Client.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.DataModel.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.UIResources.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.DataModel.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\EOG.Game.Simulation.UIResources.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.csprojAssemblyReference.cache
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\MainWindow.g.cs
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\App.g.cs
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client_MarkupCompile.cache
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client_MarkupCompile.lref
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\MainWindow.baml
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.g.resources
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.Properties.Resources.resources
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.csproj.GenerateResource.cache
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.csproj.CopyComplete
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.exe
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\obj\Debug\EOG.Game.Simulation.Client.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\CommonServiceLocator.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\System.Windows.Interactivity.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Rakesh\Examples\EOG.Game.Simulation.Client\EOG.Game.Simulation.Client\bin\Debug\Microsoft.Xaml.Behaviors.xml
